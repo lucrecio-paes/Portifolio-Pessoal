@@ -1,0 +1,4 @@
+F85B1A laranja
+072083 azul
+000000 preto
+8A9294 cinza
